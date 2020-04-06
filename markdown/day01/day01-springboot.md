@@ -22,7 +22,7 @@
 
 SpringBoot是Spring项目中的一个子工程，与我们所熟知的Spring-framework 同属于spring的产品:
 
-![1525484756737](/assets/1525484756737.png)
+![1525484756737](./assets/1525484756737.png)
 
 我们可以看到下面的一段介绍：
 
